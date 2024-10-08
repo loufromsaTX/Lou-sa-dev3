@@ -90,19 +90,19 @@ html {
     margin-top: -20px;
   }
   
-  @keyframes flow {
+  .keyframes flow {
     0% {height: 20%; border-radius: 0px 0px 30px 30px;}
     50% {height: 90%; border-radius: 0px 0px 100px 100px;}
     100% {height: 20%; border-radius: 0px 0px 30px 30px;}
   }
   
-  @media only screen and (max-width: 1200px) {
+  .media only screen and (max-width: 1200px) {
     #img-7 {
       display: none;
     }
   }
   
-  @media only screen and (max-width: 1028px) {
+  .media only screen and (max-width: 1028px) {
     #img-1 {
       display: none;
     }
